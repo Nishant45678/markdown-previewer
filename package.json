@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-   "homepage": "https://Nishant45678.github.io/markdown-preview",
+   "homepage": "https://Nishant45678.github.io/markdown-previewer",
   "scripts": {
     "predeploy":"bun run build",
     "deploy":"gh-pages -d dist",
