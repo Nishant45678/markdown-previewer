@@ -1,0 +1,14 @@
+.MarkedPreviewer__container {
+  padding: 1em;
+  
+  & .content {
+    height: 100%;
+    background-color: #fafafa;
+    overflow: auto;
+    max-height: 100%;
+    scrollbar-width: none;
+
+  }
+
+}
+

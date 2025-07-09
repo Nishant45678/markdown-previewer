@@ -1,0 +1,29 @@
+.Home__wrapper{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 1rem;
+  justify-content: center;
+  padding: 1rem;
+
+}
+
+.Home__header{
+  font-weight: 600;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.Home__child{
+  flex: 1 1 45%;
+  min-width: 300px;
+  min-height: 400px;
+  max-width: 600px;
+  background-color: white;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  
+}
+
